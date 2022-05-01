@@ -179,7 +179,9 @@ print("Total Distance={0} Kilometers".format(goal_state_path.path_cost))
 
 ## OUTPUT:
 
+![ai3](https://user-images.githubusercontent.com/75235818/166142438-3c87e553-eba0-4b31-b840-7007f159c670.jpg)
+
 ## SOLUTION JUSTIFICATION:
-
+Route follow the minimum distance between locations using breadth-first search.
 ## RESULT:
-
+Thus the program developed for finding route with drawn map and finding its distance covered.
